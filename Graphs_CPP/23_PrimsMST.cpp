@@ -28,6 +28,8 @@ class Solution
                     pq.push({wt,adjNode});
                 }
             }
+            
+            
         }
         return sum;
     }
